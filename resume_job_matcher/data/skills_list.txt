@@ -1,11 +1,151 @@
 python
+java
+c
+c++
+javascript
+typescript
+html
+css
+sql
+nosql
+mongodb
+postgresql
+mysql
+sqlite
+
 machine learning
 deep learning
-nlp
+artificial intelligence
+data science
 data analysis
+data analytics
+statistics
+probability
+linear algebra
+natural language processing
+computer vision
+time series analysis
+feature engineering
+model training
+model evaluation
+hyperparameter tuning
+
 tensorflow
 pytorch
-sql
+keras
+scikit-learn
+xgboost
+lightgbm
+catboost
+opencv
+nltk
+spacy
+gensim
+huggingface
+transformers
+
+large language models
+llm
+chatgpt
+gpt
+bert
+roberta
+llama
+prompt engineering
+fine tuning
+rag
+vector databases
+faiss
+pinecone
+chroma
+
+power bi
+tableau
+excel
+google sheets
+data visualization
+matplotlib
+seaborn
+plotly
+
+flask
+django
+fastapi
+streamlit
+gradio
+rest api
+graphql
+microservices
+
+git
+github
+gitlab
+bitbucket
+version control
+ci cd
+unit testing
+pytest
+unittest
+
+docker
+kubernetes
+containerization
 aws
-cloud
-statistics
+azure
+gcp
+ec2
+s3
+lambda
+cloud computing
+devops
+mlops
+
+linux
+bash
+shell scripting
+operating systems
+computer networks
+dbms
+software engineering
+object oriented programming
+design patterns
+system design
+
+cybersecurity
+network security
+ethical hacking
+penetration testing
+cryptography
+
+blockchain
+bitcoin
+ethereum
+smart contracts
+solidity
+web3
+
+android
+ios
+react
+angular
+vue
+nodejs
+express
+nextjs
+
+business analytics
+business intelligence
+product management
+project management
+agile
+scrum
+jira
+confluence
+
+communication
+problem solving
+critical thinking
+leadership
+teamwork
+time management
+presentation skills

@@ -51,6 +51,7 @@ streamlit run app.py
 ## Deployment
 
 Deployed using **Streamlit Cloud** directly from GitHub.
+https://roshanibind-ai-powered-resume-matc-resume-job-matcherapp-4juzdh.streamlit.app/
 
 ---
 
