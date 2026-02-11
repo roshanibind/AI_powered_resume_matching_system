@@ -41,7 +41,7 @@
 #     else:
 #         st.success("Great match! No major skill gaps.")
 
-
+import os
 import streamlit as st
 from src.parser import extract_text_from_pdf, extract_text_from_docx
 from src.preprocessing import clean_text
@@ -69,8 +69,13 @@ if uploaded_file is not None and job_desc.strip() != "":
     score = calculate_match_score(resume_clean, job_clean)
 
     # ---- Load Skills ----
-    with open("data/skills_list.txt") as f:
-        skills = [s.lower() for s in f.read().splitlines()]
+    # with open("data/skills_list.txt") as f:
+    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+    skills_path = os.path.join(BASE_DIR, "data", "skills_list.txt")
+
+    with open(skills_path, "r", encoding="utf-8") as f:
+    # skills = f.read().splitlines()
+     skills = [s.lower() for s in f.read().splitlines()]
 
     resume_tokens = set(resume_clean.split())
     job_tokens = set(job_clean.split())
