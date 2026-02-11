@@ -1,0 +1,11 @@
+python
+machine learning
+deep learning
+nlp
+data analysis
+tensorflow
+pytorch
+sql
+aws
+cloud
+statistics
